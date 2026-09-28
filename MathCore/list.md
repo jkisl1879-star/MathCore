@@ -1,4 +1,4 @@
-# MathCore
+# MathCore list command and on update
 
 * `constexpr float PI`
 
